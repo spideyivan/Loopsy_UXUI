@@ -1,0 +1,33 @@
+h1, p {
+  font-family: Lato;
+}
+a:link {
+  color: rgb(201, 216, 201);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(90, 84, 84);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(2, 2, 2);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:darkgray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+logoo {
+  position: left;
+  left: 0px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+} 
